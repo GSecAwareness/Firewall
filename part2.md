@@ -124,7 +124,6 @@ Azure Firewall Manager (AFM) is a centralized security service used to manage mu
 To view the current firewall policies from AFM: 
 - **All Services** > **Filter Services** `Firewall Manager` > **Click to Open** > **Security** > **Azure Firewall Policies** > `myfirewallpolicydemo`
 
-![get-content](https://github.com/GSecAwareness/Firewall/blob/main/finish%20wubnet%20pic.png)
 
 
 
